@@ -92,6 +92,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please reach out to us at [devakash2905@gmail.com](mailto:devakash2905@gmail.com).
+For any questions or suggestions, please reach out to us at [abhinababiswas0001@gmail.com](mailto:abhinababiswas0001@gmail.com).
 
 ![Demo](https://via.placeholder.com/600x400)
