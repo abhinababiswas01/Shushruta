@@ -4,7 +4,7 @@
 
 ## Overview
 
-Sushruta is a comprehensive tool designed to predict multiple diseases, including diabetes, heart disease, and Parkinson's disease, using machine learning models. The system leverages various datasets and provides a user-friendly interface for making predictions.
+Shushruta is a comprehensive tool designed to predict multiple diseases, including diabetes, heart disease, and Parkinson's disease, using machine learning models. The system leverages various datasets and provides a user-friendly interface for making predictions.
 
 ## Features
 
@@ -16,7 +16,7 @@ Sushruta is a comprehensive tool designed to predict multiple diseases, includin
 ## Project Structure
 
 ```
-Sushruta-main/
+Shushruta-main/
 ├── dataset/
 │   ├── diabetes.csv
 │   ├── heart.csv
@@ -45,8 +45,8 @@ Sushruta-main/
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/abhinababiswas01/Sushruta.git
-    cd Sushruta
+    git clone https://github.com/abhinababiswas01/Shushruta.git
+    cd Shushruta
     ```
 
 2. **Install Dependencies**
