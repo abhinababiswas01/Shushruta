@@ -1,4 +1,4 @@
-# Sushruta: Disease Prediction System
+# Shushruta: Disease Prediction System
 
 ![Logo](https://via.placeholder.com/150)
 
